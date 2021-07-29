@@ -1,0 +1,39 @@
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+  
+.trigger:hover {
+    color: #1890ff;
+}
+
+.logo {
+    width: 35px;
+    height: 30px;
+    margin: 16px;
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+    margin-right: 5%;
+}
+
+.site-calendar {
+    width: 300px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+  }
+
+.site-layout-background col {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-layout-background button {
+    margin-right: 5%;
+}
